@@ -19,19 +19,6 @@ This section analyzes a dataset from a data professional survey, providing insig
 - **Country**: Country of the respondent.
 - **Referrer**: Referrer URL.
 - **Time Spent**: Time spent on the survey.
-- **Q1**: Job title best fitting the current role.
-- **Q2**: Whether the respondent switched careers into data.
-- **Q3**: Current yearly salary (in USD).
-- **Q4**: Industry the respondent works in.
-- **Q5**: Favorite programming language.
-- **Q6**: Satisfaction with salary, work-life balance, coworkers, management, upward mobility, and learning new things.
-- **Q7**: Difficulty in breaking into the data field.
-- **Q8**: What would be most important when looking for a new job?
-- **Q9**: Gender (Male/Female).
-- **Q10**: Current age.
-- **Q11**: Country of residence.
-- **Q12**: Highest level of education.
-- **Q13**: Ethnicity.
 
 ### Visualizations:
 The Power BI dashboard created for this dataset includes:
