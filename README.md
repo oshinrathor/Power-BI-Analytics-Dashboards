@@ -111,7 +111,8 @@ With **Power BI**:
 - 🧠 **Data democratization** allows every team member—from analysts to executives—to easily understand and act on data.
 - 💼 **Top industries** using Power BI include retail, healthcare, finance, and tech.
 
-![Power BI Dashboard Example](https://link-to-image.com)  *(Insert an image of your dashboard here)*
+![Power BI Dashboard Example](https://upload.wikimedia.org/wikipedia/commons/0/06/Power_BI_Desktop_2016_icon.png)  
+*Power BI in action!*
 
 💡 **Pro Tip**: Mastering Power BI could open doors to high-demand roles in leading tech companies—**FAANG** and beyond!
 
