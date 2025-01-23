@@ -102,11 +102,11 @@ Here are some of the most common visualization techniques used in the Power BI d
 ---
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://sranalytics.io/wp-content/uploads/2021/01/business-benefits-of-Power-BI-1024x834.jpg" height="200" width="300" alt="Business Benefits of Power BI"/>
-  <img src="https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fEJ1c2luZXNzJTIwQW5hbHl0aWNzfGVufDB8fHx8MTY5Mzg4MTU2Nnww&ixlib=rb-4.0.3&q=80&w=2000" height="200"  alt="Business Analytics"/>
-  <img src="https://www.selecthub.com/wp-content/uploads/2022/05/Power-BI-Features-V3.jpg" height="200"  alt="Power BI Features"/>
-  <img src="https://user-images.githubusercontent.com/142690763/268054991-5788461b-4eae-4718-9f8e-c5fbfb329271.png" height="200" width="300" alt="Power BI Dashboard"/>
-  <img src="https://th.bing.com/th/id/R.6085ce4a158ff14eedf76ee3c0007b9a?rik=wZR69SoNd8Zg1w&riu=http%3a%2f%2fwww.businessintelligencesoftware.co%2fwp-content%2fuploads%2f2017%2f04%2fBI-Business-Intelligence-Tools-Market-Share-2017-businessintelligencesoftware.co_.png&ehk=pqDV8faPOBE0BRsHEHjnTHAzvlAskxhPewDUJjMeh%2fo%3d&risl=&pid=ImgRaw&r=0" height="200" width="300" alt="BI Tools Market Share"/>
+  <img src="https://sranalytics.io/wp-content/uploads/2021/01/business-benefits-of-Power-BI-1024x834.jpg" height="300" width="300" alt="Business Benefits of Power BI"/>
+  <img src="https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fEJ1c2luZXNzJTIwQW5hbHl0aWNzfGVufDB8fHx8MTY5Mzg4MTU2Nnww&ixlib=rb-4.0.3&q=80&w=2000" height="300"  alt="Business Analytics"/>
+  <img src="https://www.selecthub.com/wp-content/uploads/2022/05/Power-BI-Features-V3.jpg" height="300"  alt="Power BI Features"/>
+  <img src="https://user-images.githubusercontent.com/142690763/268054991-5788461b-4eae-4718-9f8e-c5fbfb329271.png" height="300" width="300" alt="Power BI Dashboard"/>
+  <img src="https://th.bing.com/th/id/R.6085ce4a158ff14eedf76ee3c0007b9a?rik=wZR69SoNd8Zg1w&riu=http%3a%2f%2fwww.businessintelligencesoftware.co%2fwp-content%2fuploads%2f2017%2f04%2fBI-Business-Intelligence-Tools-Market-Share-2017-businessintelligencesoftware.co_.png&ehk=pqDV8faPOBE0BRsHEHjnTHAzvlAskxhPewDUJjMeh%2fo%3d&risl=&pid=ImgRaw&r=0" height="300" width="300" alt="BI Tools Market Share"/>
 </div>
 
 ---
